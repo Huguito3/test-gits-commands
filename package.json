@@ -1,0 +1,25 @@
+{
+  "name": "test-gits-commands",
+  "version": "1.0.0",
+  "description": "Repositorio criado para testar comandos do Git",
+  "homepage": "https://github.com/Huguito3/test-gits-commands#readme",
+  "bugs": {
+    "url": "https://github.com/Huguito3/test-gits-commands/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huguito3/test-gits-commands.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "next": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
